@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052806276671",
+    "project_id": "ystyle-d0610",
+    "storage_bucket": "ystyle-d0610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052806276671:android:f3087b0aaeb5bdd45eba8a",
+        "android_client_info": {
+          "package_name": "com.itsyasirali.ystyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052806276671-d6ul3ri4scc1rb373c7dho9deev8shgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itsyasirali.ystyle",
+            "certificate_hash": "1f63081f29089129d376eaebe4ed7a1065ec4e8f"
+          }
+        },
+        {
+          "client_id": "1052806276671-p2ndthiq0odtb3aobb6lc291tca1gkjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTrsRZAZzqvDcCspX-1cSjkZTFyd0A8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052806276671-p2ndthiq0odtb3aobb6lc291tca1gkjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
